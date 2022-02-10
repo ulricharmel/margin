@@ -7,7 +7,7 @@ margin
 |Python Versions|
 |Project License|
 
-A machine learning script for classiy good and bad roads. This is mainly for studying purposes. Nothing softiscated happening here
+A machine learning model to classify states of roads. This is mainly for studying purposes. Nothing softiscated happening here
 
 
 =======
