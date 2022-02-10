@@ -1,0 +1,12 @@
+numpy
+Pillow
+torch>=1.2
+tabulate
+tqdm
+torchvision
+numpydoc
+scipy
+matplotlib
+psutil
+line-profiler
+opencv-python

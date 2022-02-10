@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+
+from margin.train import main
+
+main()
+
+
