@@ -9,6 +9,14 @@ margin
 
 A machine learning model to classify states of roads. This is mainly for studying purposes. Nothing softiscated happening here
 
+To run and see options
+
+.. code-block:: bash
+
+    $ margin --help
+    
+    $ margin-eval --help
+
 
 =======
 License
